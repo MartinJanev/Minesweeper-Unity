@@ -1,1 +1,3 @@
-# Minesweeper-Unity
+# Minesweeper
+
+Minesweeper game using Unity
